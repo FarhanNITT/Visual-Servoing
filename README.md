@@ -33,3 +33,8 @@ The robot is first moved to the desired configuration using the position control
 
 
 ![Alt text for third image](src/IBVS1.png)
+
+
+The robot trajectory obtained through the visual servoing algorithm effectively tracked the centers of the circles, ensuring precise movement from the initial configuration to the desired position while maintaining visual feedback throughout the process.
+
+![Alt text for third image](src/trajectory_plot.png)
