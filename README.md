@@ -81,3 +81,10 @@ The robot trajectory obtained through the visual servoing algorithm effectively 
       ros2 control switch_controllers --start forward_velocity_controller --stop
       forward_position_controller
   
+###   10) Open a new terminal and navigate to :
+      cd src/opencv_test_py/opencv_test_py
+      python3 feature_points.py
+
+###   11) Open a new terminal and navigate to :
+      cd src/opencv_test_py/opencv_test_py
+      python3 visual_servoing.py
