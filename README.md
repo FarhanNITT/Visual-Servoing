@@ -42,13 +42,13 @@ The robot trajectory obtained through the visual servoing algorithm effectively 
 
 # Instructions to run the repository:
 
-### 1) Navigate to your workspace's `src` directory:
+### 1) Create a new workspace and navigate to your workspace's directory:
 
-      cd ~/your_workspace/src 
+      cd ~/your_workspace/
 
 ###  2) Clone the repository:
 
-      git clone https://github.com/salochinYom/VBM_PR1_workspace_M2.git
+      git clone https://github.com/FarhanNITT/Visual-Servoing.git
 
  ### 3) Build the workspace:
 
@@ -58,15 +58,26 @@ The robot trajectory obtained through the visual servoing algorithm effectively 
 
       source install/setup.bash
       
- ### 5) Run the simulation:
+ ### 5) Run the simulation and spwan the robot:
 
-      ros2 launch vbm_project_env simulation.launch.py
+     ros2 launch rrbot_gazebo rrbot_world.launch.py
       
-###  6) Start the grasp model service:
-      
-       ros2 run grasp_model grconv_service
+###  6) Run the simulation and spwan the robot:
 
-###   7) Call this service to run GRCONVNet:
+      ros2 launch rrbot_gazebo object_spawn.launch.py
+
+###   7) Move the robot to an initial position.
      
-      ros2 service call /grconv_model define_service/srv/GrConv "{model: 'use_grconvnet'}"
-      
+      ros2 topic pub /forward_position_controller/commands std_msgs/msg/Float64MultiArray
+      "{data: [0.25, -1.0]}"
+
+###   8) Start the velocity controller
+     
+      ros2 control switch_controllers --start forward_velocity_controller --stop
+      forward_position_controller
+
+###   9) Start the velocity controller
+     
+      ros2 control switch_controllers --start forward_velocity_controller --stop
+      forward_position_controller
+  
