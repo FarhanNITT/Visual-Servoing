@@ -21,11 +21,13 @@ The robot is first moved to the desired configuration using the position control
 
 <div style="display: flex; justify-content: center; gap: 100px;">
   <img src="src/Initial_config_centers.jpg" alt="First Image" width="490" style="margin: 0 10px;" />
-  <img src="src/desired_config_centers.jpg" alt="Second Image" width="490"style="margin: 0 10px;" />
+  <img src="src/desired_config_centers.jpg" alt="Second Image" width="490" style="margin: 0 10px;" />
 </div>
 
+<hr style="border: 1px solid #ccc; margin: 20px 0;">
+
 <div style="text-align: center;">
-  **The control loop utilised in this project is based  on **
+  <strong>The control loop utilized in this project is based on</strong>
 </div>
 
 
