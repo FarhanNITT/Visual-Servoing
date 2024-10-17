@@ -24,6 +24,10 @@ The robot is first moved to the desired configuration using the position control
   <img src="src/desired_config_centers.jpg" alt="Second Image" width="490"style="margin: 0 10px;" />
 </div>
 
-The control loop utilised in this project is based on :
+<div style="text-align: center;">
+  **The control loop utilised in this project is based  on **
+</div>
+
+
 
 ![Alt text for third image](src/IBVS1.png)
