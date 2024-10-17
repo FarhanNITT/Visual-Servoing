@@ -26,4 +26,4 @@ The robot is first moved to the desired configuration using the position control
 
 The control loop utilised in this project is based on :
 
-![Alt text for third image](src/IBVS.png)
+![Alt text for third image](src/IBVS1.png)
