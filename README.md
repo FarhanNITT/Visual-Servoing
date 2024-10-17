@@ -38,3 +38,35 @@ The robot is first moved to the desired configuration using the position control
 The robot trajectory obtained through the visual servoing algorithm effectively tracked the centers of the circles, ensuring precise movement from the initial configuration to the desired position while maintaining visual feedback throughout the process.
 
 ![Alt text for third image](src/trajectory_plot.png)
+
+
+# Instructions to run the repository:
+
+### 1) Navigate to your workspace's `src` directory:
+
+      cd ~/your_workspace/src 
+
+###  2) Clone the repository:
+
+      git clone https://github.com/salochinYom/VBM_PR1_workspace_M2.git
+
+ ### 3) Build the workspace:
+
+      colcon build --symlink install
+      
+ ### 4) Source the workspace:
+
+      source install/setup.bash
+      
+ ### 5) Run the simulation:
+
+      ros2 launch vbm_project_env simulation.launch.py
+      
+###  6) Start the grasp model service:
+      
+       ros2 run grasp_model grconv_service
+
+###   7) Call this service to run GRCONVNet:
+     
+      ros2 service call /grconv_model define_service/srv/GrConv "{model: 'use_grconvnet'}"
+      
