@@ -5,6 +5,7 @@ This project focuses on implementing visual feedback manipulation on a 2-DOF pla
 The robot operates using two controllers:
 
 **Position Controller:**  Ensures that the entire object remains visible within the camera's view, marking the desired configuration.
+
 **Velocity Controller:**  Fine-tunes the robot's movements to perform visual servoing and align the object with the target image configuration.
 
 In the new location, the full object remains visible, allowing seamless manipulation through the virtual camera.
