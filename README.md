@@ -15,4 +15,6 @@ The robot operates using two controllers:
 
 In the new location, the full object remains visible, allowing seamless manipulation through the virtual camera.
 
-The circle centers are detected by two methods : Mean Color Thresholding and Hough Circle Transforms 
+# Overview 
+
+The robot is first moved to the desired configuration using the position controller, where the circle center detection algorithm is executed. The detected centers are then saved as reference points for the Image-Based Visual Servoing (IBVS) control loop. Next, the robot is moved to the initial configuration. The goal is to transition the robot from this initial state to the predefined desired configuration by tracking the detected feature points' trajectories through visual feedback. The IBVS algorithm is run with 𝑓 = 𝑍 = 1 to compute the required joint velocities, and the robot is then moved using the velocity controller based on these calculations.
