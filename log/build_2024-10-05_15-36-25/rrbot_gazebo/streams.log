@@ -1,0 +1,29 @@
+[0.102s] Invoking command in '/home/farhan/ros2_gazebo/build/rrbot_gazebo': CMAKE_PREFIX_PATH=/home/farhan/ros2_gazebo/install/rrbot_description:/home/farhan/ros2_gazebo/install/rrbot_gazebo:/home/farhan/ros2_gazebo/install/opencv_test_py:/home/farhan/ros2_gazebo/install/Vision:/opt/ros/humble /usr/bin/cmake --build /home/farhan/ros2_gazebo/build/rrbot_gazebo -- -j8 -l8
+[3.616s] [ 75%] Built target switch
+[3.616s] [100%] Built target publisher
+[3.633s] Invoked command in '/home/farhan/ros2_gazebo/build/rrbot_gazebo' returned '0': CMAKE_PREFIX_PATH=/home/farhan/ros2_gazebo/install/rrbot_description:/home/farhan/ros2_gazebo/install/rrbot_gazebo:/home/farhan/ros2_gazebo/install/opencv_test_py:/home/farhan/ros2_gazebo/install/Vision:/opt/ros/humble /usr/bin/cmake --build /home/farhan/ros2_gazebo/build/rrbot_gazebo -- -j8 -l8
+[3.658s] Invoking command in '/home/farhan/ros2_gazebo/build/rrbot_gazebo': CMAKE_PREFIX_PATH=/home/farhan/ros2_gazebo/install/rrbot_description:/home/farhan/ros2_gazebo/install/rrbot_gazebo:/home/farhan/ros2_gazebo/install/opencv_test_py:/home/farhan/ros2_gazebo/install/Vision:/opt/ros/humble /usr/bin/cmake --install /home/farhan/ros2_gazebo/build/rrbot_gazebo
+[3.664s] -- Install configuration: ""
+[3.705s] -- Up-to-date: /home/farhan/ros2_gazebo/install/rrbot_gazebo/lib/rrbot_gazebo/publisher
+[3.724s] -- Up-to-date: /home/farhan/ros2_gazebo/install/rrbot_gazebo/lib/rrbot_gazebo/switch
+[3.725s] -- Up-to-date: /home/farhan/ros2_gazebo/install/rrbot_gazebo/share/rrbot_gazebo/launch
+[3.726s] -- Up-to-date: /home/farhan/ros2_gazebo/install/rrbot_gazebo/share/rrbot_gazebo/launch/rrbot_world.launch.py
+[3.726s] -- Up-to-date: /home/farhan/ros2_gazebo/install/rrbot_gazebo/share/rrbot_gazebo/worlds
+[3.726s] -- Up-to-date: /home/farhan/ros2_gazebo/install/rrbot_gazebo/share/rrbot_gazebo/worlds/rrbot.world
+[3.727s] -- Up-to-date: /home/farhan/ros2_gazebo/install/rrbot_gazebo/share/rrbot_gazebo/config
+[3.764s] -- Up-to-date: /home/farhan/ros2_gazebo/install/rrbot_gazebo/share/rrbot_gazebo/config/gazebo_controllers.yaml
+[3.764s] -- Up-to-date: /home/farhan/ros2_gazebo/install/rrbot_gazebo/share/rrbot_gazebo/config/controllers.yaml
+[3.765s] -- Up-to-date: /home/farhan/ros2_gazebo/install/rrbot_gazebo/share/ament_index/resource_index/package_run_dependencies/rrbot_gazebo
+[3.765s] -- Up-to-date: /home/farhan/ros2_gazebo/install/rrbot_gazebo/share/ament_index/resource_index/parent_prefix_path/rrbot_gazebo
+[3.766s] -- Up-to-date: /home/farhan/ros2_gazebo/install/rrbot_gazebo/share/rrbot_gazebo/environment/ament_prefix_path.dsv
+[3.767s] -- Up-to-date: /home/farhan/ros2_gazebo/install/rrbot_gazebo/share/rrbot_gazebo/environment/path.dsv
+[3.767s] -- Up-to-date: /home/farhan/ros2_gazebo/install/rrbot_gazebo/share/rrbot_gazebo/local_setup.bash
+[3.768s] -- Up-to-date: /home/farhan/ros2_gazebo/install/rrbot_gazebo/share/rrbot_gazebo/local_setup.sh
+[3.768s] -- Up-to-date: /home/farhan/ros2_gazebo/install/rrbot_gazebo/share/rrbot_gazebo/local_setup.zsh
+[3.768s] -- Up-to-date: /home/farhan/ros2_gazebo/install/rrbot_gazebo/share/rrbot_gazebo/local_setup.dsv
+[3.768s] -- Installing: /home/farhan/ros2_gazebo/install/rrbot_gazebo/share/rrbot_gazebo/package.dsv
+[3.783s] -- Up-to-date: /home/farhan/ros2_gazebo/install/rrbot_gazebo/share/ament_index/resource_index/packages/rrbot_gazebo
+[3.784s] -- Up-to-date: /home/farhan/ros2_gazebo/install/rrbot_gazebo/share/rrbot_gazebo/cmake/rrbot_gazeboConfig.cmake
+[3.784s] -- Up-to-date: /home/farhan/ros2_gazebo/install/rrbot_gazebo/share/rrbot_gazebo/cmake/rrbot_gazeboConfig-version.cmake
+[3.784s] -- Up-to-date: /home/farhan/ros2_gazebo/install/rrbot_gazebo/share/rrbot_gazebo/package.xml
+[3.792s] Invoked command in '/home/farhan/ros2_gazebo/build/rrbot_gazebo' returned '0': CMAKE_PREFIX_PATH=/home/farhan/ros2_gazebo/install/rrbot_description:/home/farhan/ros2_gazebo/install/rrbot_gazebo:/home/farhan/ros2_gazebo/install/opencv_test_py:/home/farhan/ros2_gazebo/install/Vision:/opt/ros/humble /usr/bin/cmake --install /home/farhan/ros2_gazebo/build/rrbot_gazebo

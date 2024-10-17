@@ -1,0 +1,9 @@
+running egg_info
+creating ../../build/opencv_test_py/opencv_test_py.egg-info
+writing ../../build/opencv_test_py/opencv_test_py.egg-info/PKG-INFO
+writing dependency_links to ../../build/opencv_test_py/opencv_test_py.egg-info/dependency_links.txt
+writing entry points to ../../build/opencv_test_py/opencv_test_py.egg-info/entry_points.txt
+writing requirements to ../../build/opencv_test_py/opencv_test_py.egg-info/requires.txt
+writing top-level names to ../../build/opencv_test_py/opencv_test_py.egg-info/top_level.txt
+writing manifest file '../../build/opencv_test_py/opencv_test_py.egg-info/SOURCES.txt'
+error: package directory 'opencv_test_py' does not exist

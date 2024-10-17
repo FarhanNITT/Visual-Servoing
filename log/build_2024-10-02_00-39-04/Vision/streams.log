@@ -1,0 +1,20 @@
+[23.439s] Invoking command in '/home/farhan/ros2_gazebo/src/Vision': PYTHONPATH=/home/farhan/ros2_gazebo/build/Vision/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/farhan/ros2_gazebo/install/Vision/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/Vision build --build-base /home/farhan/ros2_gazebo/build/Vision/build install --record /home/farhan/ros2_gazebo/build/Vision/install.log --single-version-externally-managed install_data
+[29.174s] running egg_info
+[29.181s] writing ../../build/Vision/Vision.egg-info/PKG-INFO
+[29.186s] writing dependency_links to ../../build/Vision/Vision.egg-info/dependency_links.txt
+[29.187s] writing entry points to ../../build/Vision/Vision.egg-info/entry_points.txt
+[29.190s] writing requirements to ../../build/Vision/Vision.egg-info/requires.txt
+[29.192s] writing top-level names to ../../build/Vision/Vision.egg-info/top_level.txt
+[29.211s] reading manifest file '../../build/Vision/Vision.egg-info/SOURCES.txt'
+[29.220s] writing manifest file '../../build/Vision/Vision.egg-info/SOURCES.txt'
+[29.222s] running build
+[29.226s] running build_py
+[29.227s] running install
+[29.228s] running install_lib
+[29.262s] running install_data
+[29.264s] running install_egg_info
+[29.300s] removing '/home/farhan/ros2_gazebo/install/Vision/lib/python3.10/site-packages/Vision-0.0.0-py3.10.egg-info' (and everything under it)
+[29.311s] Copying ../../build/Vision/Vision.egg-info to /home/farhan/ros2_gazebo/install/Vision/lib/python3.10/site-packages/Vision-0.0.0-py3.10.egg-info
+[29.329s] running install_scripts
+[29.740s] writing list of installed files to '/home/farhan/ros2_gazebo/build/Vision/install.log'
+[30.161s] Invoked command in '/home/farhan/ros2_gazebo/src/Vision' returned '0': PYTHONPATH=/home/farhan/ros2_gazebo/build/Vision/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/farhan/ros2_gazebo/install/Vision/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/Vision build --build-base /home/farhan/ros2_gazebo/build/Vision/build install --record /home/farhan/ros2_gazebo/build/Vision/install.log --single-version-externally-managed install_data

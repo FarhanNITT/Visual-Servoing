@@ -1,0 +1,25 @@
+[18.390s] Invoking command in '/home/farhan/ros2_gazebo/src/opencv_test_py': PYTHONPATH=/home/farhan/ros2_gazebo/build/opencv_test_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/farhan/ros2_gazebo/install/opencv_test_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/opencv_test_py build --build-base /home/farhan/ros2_gazebo/build/opencv_test_py/build install --record /home/farhan/ros2_gazebo/build/opencv_test_py/install.log --single-version-externally-managed install_data
+[23.013s] running egg_info
+[23.022s] writing ../../build/opencv_test_py/opencv_test_py.egg-info/PKG-INFO
+[23.025s] writing dependency_links to ../../build/opencv_test_py/opencv_test_py.egg-info/dependency_links.txt
+[23.027s] writing entry points to ../../build/opencv_test_py/opencv_test_py.egg-info/entry_points.txt
+[23.028s] writing requirements to ../../build/opencv_test_py/opencv_test_py.egg-info/requires.txt
+[23.031s] writing top-level names to ../../build/opencv_test_py/opencv_test_py.egg-info/top_level.txt
+[23.048s] reading manifest file '../../build/opencv_test_py/opencv_test_py.egg-info/SOURCES.txt'
+[23.049s] adding license file 'LICENSE'
+[23.055s] writing manifest file '../../build/opencv_test_py/opencv_test_py.egg-info/SOURCES.txt'
+[23.059s] running build
+[23.059s] running build_py
+[23.059s] copying opencv_test_py/visual_servoing.py -> /home/farhan/ros2_gazebo/build/opencv_test_py/build/lib/opencv_test_py
+[23.066s] running install
+[23.069s] running install_lib
+[23.079s] copying /home/farhan/ros2_gazebo/build/opencv_test_py/build/lib/opencv_test_py/visual_servoing.py -> /home/farhan/ros2_gazebo/install/opencv_test_py/lib/python3.10/site-packages/opencv_test_py
+[23.101s] byte-compiling /home/farhan/ros2_gazebo/install/opencv_test_py/lib/python3.10/site-packages/opencv_test_py/visual_servoing.py to visual_servoing.cpython-310.pyc
+[23.108s] running install_data
+[23.109s] running install_egg_info
+[23.141s] removing '/home/farhan/ros2_gazebo/install/opencv_test_py/lib/python3.10/site-packages/opencv_test_py-0.0.0-py3.10.egg-info' (and everything under it)
+[23.143s] Copying ../../build/opencv_test_py/opencv_test_py.egg-info to /home/farhan/ros2_gazebo/install/opencv_test_py/lib/python3.10/site-packages/opencv_test_py-0.0.0-py3.10.egg-info
+[23.153s] running install_scripts
+[23.489s] Installing image_processor script to /home/farhan/ros2_gazebo/install/opencv_test_py/lib/opencv_test_py
+[23.492s] writing list of installed files to '/home/farhan/ros2_gazebo/build/opencv_test_py/install.log'
+[23.832s] Invoked command in '/home/farhan/ros2_gazebo/src/opencv_test_py' returned '0': PYTHONPATH=/home/farhan/ros2_gazebo/build/opencv_test_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/farhan/ros2_gazebo/install/opencv_test_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/opencv_test_py build --build-base /home/farhan/ros2_gazebo/build/opencv_test_py/build install --record /home/farhan/ros2_gazebo/build/opencv_test_py/install.log --single-version-externally-managed install_data

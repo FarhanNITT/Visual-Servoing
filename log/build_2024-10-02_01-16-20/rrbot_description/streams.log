@@ -1,0 +1,35 @@
+[0.198s] Invoking command in '/home/farhan/ros2_gazebo/build/rrbot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/farhan/ros2_gazebo/build/rrbot_description -- -j8 -l8
+[5.727s] Invoked command in '/home/farhan/ros2_gazebo/build/rrbot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/farhan/ros2_gazebo/build/rrbot_description -- -j8 -l8
+[5.979s] Invoking command in '/home/farhan/ros2_gazebo/build/rrbot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/farhan/ros2_gazebo/build/rrbot_description
+[6.049s] -- Install configuration: ""
+[6.051s] -- Up-to-date: /home/farhan/ros2_gazebo/install/rrbot_description/share/rrbot_description/config
+[6.052s] -- Up-to-date: /home/farhan/ros2_gazebo/install/rrbot_description/share/rrbot_description/config/rrbot.rviz
+[6.054s] -- Up-to-date: /home/farhan/ros2_gazebo/install/rrbot_description/share/rrbot_description/gazebo
+[6.055s] -- Up-to-date: /home/farhan/ros2_gazebo/install/rrbot_description/share/rrbot_description/gazebo/rrbot.materials.xacro
+[6.056s] -- Up-to-date: /home/farhan/ros2_gazebo/install/rrbot_description/share/rrbot_description/gazebo/rrbot.gazebo.xacro
+[6.056s] -- Up-to-date: /home/farhan/ros2_gazebo/install/rrbot_description/share/rrbot_description/meshes
+[6.056s] -- Up-to-date: /home/farhan/ros2_gazebo/install/rrbot_description/share/rrbot_description/meshes/hokuyo.dae
+[6.057s] -- Up-to-date: /home/farhan/ros2_gazebo/install/rrbot_description/share/rrbot_description/launch
+[6.058s] -- Up-to-date: /home/farhan/ros2_gazebo/install/rrbot_description/share/rrbot_description/launch/view_robot.launch.py
+[6.058s] -- Up-to-date: /home/farhan/ros2_gazebo/install/rrbot_description/share/rrbot_description/launch/object_spawn.launch.py
+[6.059s] -- Up-to-date: /home/farhan/ros2_gazebo/install/rrbot_description/share/rrbot_description/ros2_control
+[6.059s] -- Up-to-date: /home/farhan/ros2_gazebo/install/rrbot_description/share/rrbot_description/ros2_control/rrbot.ros2_control.xacro
+[6.059s] -- Up-to-date: /home/farhan/ros2_gazebo/install/rrbot_description/share/rrbot_description/urdf
+[6.060s] -- Up-to-date: /home/farhan/ros2_gazebo/install/rrbot_description/share/rrbot_description/urdf/rrbot_description.urdf.xacro
+[6.060s] -- Up-to-date: /home/farhan/ros2_gazebo/install/rrbot_description/share/rrbot_description/urdf/rrbot.urdf.xacro
+[6.061s] -- Up-to-date: /home/farhan/ros2_gazebo/install/rrbot_description/share/rrbot_description/urdf/object.urdf
+[6.064s] -- Up-to-date: /home/farhan/ros2_gazebo/install/rrbot_description/share/rrbot_description/environment/rrbot_description.dsv
+[6.064s] -- Up-to-date: /home/farhan/ros2_gazebo/install/rrbot_description/share/ament_index/resource_index/package_run_dependencies/rrbot_description
+[6.070s] -- Up-to-date: /home/farhan/ros2_gazebo/install/rrbot_description/share/ament_index/resource_index/parent_prefix_path/rrbot_description
+[6.075s] -- Up-to-date: /home/farhan/ros2_gazebo/install/rrbot_description/share/rrbot_description/environment/ament_prefix_path.dsv
+[6.079s] -- Up-to-date: /home/farhan/ros2_gazebo/install/rrbot_description/share/rrbot_description/environment/path.dsv
+[6.080s] -- Up-to-date: /home/farhan/ros2_gazebo/install/rrbot_description/share/rrbot_description/local_setup.bash
+[6.080s] -- Up-to-date: /home/farhan/ros2_gazebo/install/rrbot_description/share/rrbot_description/local_setup.sh
+[6.080s] -- Up-to-date: /home/farhan/ros2_gazebo/install/rrbot_description/share/rrbot_description/local_setup.zsh
+[6.081s] -- Up-to-date: /home/farhan/ros2_gazebo/install/rrbot_description/share/rrbot_description/local_setup.dsv
+[6.081s] -- Installing: /home/farhan/ros2_gazebo/install/rrbot_description/share/rrbot_description/package.dsv
+[6.081s] -- Up-to-date: /home/farhan/ros2_gazebo/install/rrbot_description/share/ament_index/resource_index/packages/rrbot_description
+[6.084s] -- Up-to-date: /home/farhan/ros2_gazebo/install/rrbot_description/share/rrbot_description/cmake/rrbot_descriptionConfig.cmake
+[6.087s] -- Up-to-date: /home/farhan/ros2_gazebo/install/rrbot_description/share/rrbot_description/cmake/rrbot_descriptionConfig-version.cmake
+[6.089s] -- Up-to-date: /home/farhan/ros2_gazebo/install/rrbot_description/share/rrbot_description/package.xml
+[6.091s] Invoked command in '/home/farhan/ros2_gazebo/build/rrbot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/farhan/ros2_gazebo/build/rrbot_description
